@@ -8,5 +8,5 @@ namespace _12laba
 {
     internal class _12_2
     {
-    }
+    }asdasasesaasdasdasasddsasadads
 }
